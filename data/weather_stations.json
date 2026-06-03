@@ -1,0 +1,1422 @@
+[
+  {
+    "location_name": "Alor Gajah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Alor Star",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Ampang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Asajaya",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Ayer Hitam",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Ayer Itam",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Ayer Keroh",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bachok",
+    "latitude": 6.1479,
+    "longitude": 102.3009
+  },
+  {
+    "location_name": "Bagan Datuk",
+    "latitude": 5.05,
+    "longitude": 100.7333
+  },
+  {
+    "location_name": "Bagan Serai",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Balik Pulau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Baling",
+    "latitude": 5.86,
+    "longitude": 100.87
+  },
+  {
+    "location_name": "Bandar Baharu",
+    "latitude": 5.32,
+    "longitude": 100.462
+  },
+  {
+    "location_name": "Bandar Permaisuri",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bandaraya Melaka",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bangi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bangsar",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Banting",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Barat Daya",
+    "latitude": 5.26,
+    "longitude": 100.21
+  },
+  {
+    "location_name": "Batang Padang",
+    "latitude": 4.2,
+    "longitude": 101.0333
+  },
+  {
+    "location_name": "Batu Caves",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Batu Feringgi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Batu Gajah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Batu Kawan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Batu Pahat",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bayan Lepas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Beaufort",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Belaga",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Beluran",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Beluru",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bentong",
+    "latitude": 3.5,
+    "longitude": 101.9
+  },
+  {
+    "location_name": "Bera",
+    "latitude": 3.6,
+    "longitude": 102.43
+  },
+  {
+    "location_name": "Besut",
+    "latitude": 5.7333,
+    "longitude": 102.5167
+  },
+  {
+    "location_name": "Betong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bintulu",
+    "latitude": 3.1667,
+    "longitude": 113.0333
+  },
+  {
+    "location_name": "Bukit Bendera",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Bintang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Fraser",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Mabong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Mertajam",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Tengah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Bukit Tinggi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Butterworth",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Cameron Highland",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Cheras",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Cherating",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Cyberjaya",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Dalat",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Damansara",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Daro",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Desaru",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Dungun",
+    "latitude": 4.8,
+    "longitude": 103.4333
+  },
+  {
+    "location_name": "Durian Tunggal",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "FP Labuan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Gemas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Georgetown",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Gerik",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Gombak",
+    "latitude": 3.293,
+    "longitude": 101.765
+  },
+  {
+    "location_name": "Gopeng",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Gua Musang",
+    "latitude": 4.815,
+    "longitude": 101.95
+  },
+  {
+    "location_name": "Hilir Perak",
+    "latitude": 4.0,
+    "longitude": 101.0
+  },
+  {
+    "location_name": "Hulu Langat",
+    "latitude": 3.1,
+    "longitude": 101.8
+  },
+  {
+    "location_name": "Hulu Perak",
+    "latitude": 5.0,
+    "longitude": 101.2
+  },
+  {
+    "location_name": "Hulu Selangor",
+    "latitude": 3.5,
+    "longitude": 101.6
+  },
+  {
+    "location_name": "Hulu Terengganu",
+    "latitude": 5.17,
+    "longitude": 102.65
+  },
+  {
+    "location_name": "Ipoh",
+    "latitude": 4.592,
+    "longitude": 101.0901
+  },
+  {
+    "location_name": "Iskandar Puteri",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Jalan Duta",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Jasin",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Jelebu",
+    "latitude": 2.85,
+    "longitude": 102.15
+  },
+  {
+    "location_name": "Jeli",
+    "latitude": 5.425,
+    "longitude": 101.95
+  },
+  {
+    "location_name": "Jempol",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Jerantut",
+    "latitude": 3.975,
+    "longitude": 102.4167
+  },
+  {
+    "location_name": "Jerteh",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Jitra",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Johor",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Johor Bahru",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Julau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kabong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kajang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kampar",
+    "latitude": 4.3167,
+    "longitude": 101.1333
+  },
+  {
+    "location_name": "Kanowit",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kapit",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kedah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kelantan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kemaman",
+    "latitude": 4.242,
+    "longitude": 103.425
+  },
+  {
+    "location_name": "Keningau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kepala Batas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kepong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kerian",
+    "latitude": 5.35,
+    "longitude": 100.6
+  },
+  {
+    "location_name": "Kertih",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kijal",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kinabatangan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kinta",
+    "latitude": 4.6,
+    "longitude": 101.07
+  },
+  {
+    "location_name": "Klang",
+    "latitude": 3.0333,
+    "longitude": 101.45
+  },
+  {
+    "location_name": "Kluang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kota Belud",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kota Bharu",
+    "latitude": 6.125,
+    "longitude": 102.272
+  },
+  {
+    "location_name": "Kota Kinabalu",
+    "latitude": 5.9804,
+    "longitude": 116.0735
+  },
+  {
+    "location_name": "Kota Marudu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kota Setar",
+    "latitude": 6.12,
+    "longitude": 100.36
+  },
+  {
+    "location_name": "Kota Tinggi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Kangsar",
+    "latitude": 4.7667,
+    "longitude": 100.95
+  },
+  {
+    "location_name": "Kuala Klawang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Krai",
+    "latitude": 5.5325,
+    "longitude": 102.1982
+  },
+  {
+    "location_name": "Kuala Kubu Bharu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Langat",
+    "latitude": 2.915,
+    "longitude": 101.432
+  },
+  {
+    "location_name": "Kuala Lipis",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Lumpur",
+    "latitude": 3.139,
+    "longitude": 101.6869
+  },
+  {
+    "location_name": "Kuala Muda",
+    "latitude": 5.65,
+    "longitude": 100.5
+  },
+  {
+    "location_name": "Kuala Nerang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Nerus",
+    "latitude": 5.4167,
+    "longitude": 103.0333
+  },
+  {
+    "location_name": "Kuala Penyu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Pilah",
+    "latitude": 2.9,
+    "longitude": 102.1
+  },
+  {
+    "location_name": "Kuala Rompin",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kuala Selangor",
+    "latitude": 3.349,
+    "longitude": 101.254
+  },
+  {
+    "location_name": "Kuala Terengganu",
+    "latitude": 5.33,
+    "longitude": 103.14
+  },
+  {
+    "location_name": "Kuantan",
+    "latitude": 3.8161,
+    "longitude": 103.3278
+  },
+  {
+    "location_name": "Kubang Pasu",
+    "latitude": 6.2333,
+    "longitude": 100.4
+  },
+  {
+    "location_name": "Kuching",
+    "latitude": 1.5533,
+    "longitude": 110.3592
+  },
+  {
+    "location_name": "Kudat",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kulai",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Kulim",
+    "latitude": 5.35,
+    "longitude": 100.54
+  },
+  {
+    "location_name": "Kunak",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Labis",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lahad Datu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Langkawi",
+    "latitude": 6.386,
+    "longitude": 99.784
+  },
+  {
+    "location_name": "Larut, Matang Dan Selama",
+    "latitude": 4.85,
+    "longitude": 100.7333
+  },
+  {
+    "location_name": "Lawas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lenggong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Limbang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lipis",
+    "latitude": 4.1833,
+    "longitude": 102.0
+  },
+  {
+    "location_name": "Lojing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lubok Antu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lumut",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Lundu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Machang",
+    "latitude": 5.3167,
+    "longitude": 102.1833
+  },
+  {
+    "location_name": "Manjung",
+    "latitude": 4.2167,
+    "longitude": 100.7
+  },
+  {
+    "location_name": "Maran",
+    "latitude": 3.55,
+    "longitude": 102.45
+  },
+  {
+    "location_name": "Marang",
+    "latitude": 5.2167,
+    "longitude": 103.0333
+  },
+  {
+    "location_name": "Marudi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Masjid Tanah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Matu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Melaka",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Melaka Tengah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Mentakab",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Meradong",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Merlimau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Mersing",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Miri",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Muadzam Shah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Muallim",
+    "latitude": 3.8833,
+    "longitude": 101.0833
+  },
+  {
+    "location_name": "Muar",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Mukah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Nabawan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Negeri Sembilan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Nibong Tebal",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Nilai",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Padang Terap",
+    "latitude": 5.76,
+    "longitude": 100.49
+  },
+  {
+    "location_name": "Pagoh",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pahang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Paka",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pakan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pantai Barat",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Papar",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Parit Buntar",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pasir Gudang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pasir Mas",
+    "latitude": 6.0,
+    "longitude": 102.2
+  },
+  {
+    "location_name": "Pasir Puteh",
+    "latitude": 5.8167,
+    "longitude": 102.4333
+  },
+  {
+    "location_name": "Paya Indah Wetlands",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pedalaman",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pekan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pelabuhan Klang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Penampang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pendang",
+    "latitude": 6.2833,
+    "longitude": 100.3
+  },
+  {
+    "location_name": "Perai",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Perak",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Perak Tengah",
+    "latitude": 4.15,
+    "longitude": 100.9
+  },
+  {
+    "location_name": "Perlis",
+    "latitude": 6.4417,
+    "longitude": 100.2
+  },
+  {
+    "location_name": "Petaling",
+    "latitude": 3.0833,
+    "longitude": 101.6
+  },
+  {
+    "location_name": "Petaling Jaya",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pitas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pokok Sena",
+    "latitude": 6.4667,
+    "longitude": 100.4333
+  },
+  {
+    "location_name": "Pontian",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Port Dickson",
+    "latitude": 2.5191,
+    "longitude": 101.8031
+  },
+  {
+    "location_name": "Pulau Kapas",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Pangkor",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Perhentian",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Pinang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Redang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Sibu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Sipadan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pulau Tioman",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pusa",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Pusat Konservasi Gajah Kebangsaan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Putatan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Putrajaya",
+    "latitude": 2.9264,
+    "longitude": 101.6964
+  },
+  {
+    "location_name": "Ranau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Rantau Panjang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Raub",
+    "latitude": 3.79,
+    "longitude": 101.85
+  },
+  {
+    "location_name": "Rawang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Rembau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Rompin",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sabah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sabak Bernam",
+    "latitude": 3.63,
+    "longitude": 100.938
+  },
+  {
+    "location_name": "Samarahan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sandakan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Saratok",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sarawak",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sarikei",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sebauh",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Seberang Perai Selatan",
+    "latitude": 5.23,
+    "longitude": 100.42
+  },
+  {
+    "location_name": "Seberang Perai Tengah",
+    "latitude": 5.33,
+    "longitude": 100.46
+  },
+  {
+    "location_name": "Seberang Perai Utara",
+    "latitude": 5.47,
+    "longitude": 100.48
+  },
+  {
+    "location_name": "Segamat",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Selama",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Selangau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Selangor",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Selayang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Semenyih",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Semporna",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Senai",
+    "latitude": 1.639,
+    "longitude": 103.679
+  },
+  {
+    "location_name": "Sentul",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sepang",
+    "latitude": 2.72,
+    "longitude": 101.7
+  },
+  {
+    "location_name": "Serdang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Seremban",
+    "latitude": 2.729,
+    "longitude": 101.938
+  },
+  {
+    "location_name": "Seri Iskandar",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Seri Kembangan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Serian",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Setapak",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Setiu",
+    "latitude": 5.5,
+    "longitude": 102.65
+  },
+  {
+    "location_name": "Shah Alam",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sibu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sik",
+    "latitude": 5.6333,
+    "longitude": 100.85
+  },
+  {
+    "location_name": "Simpang Renggam",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Simunjan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sipitang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sitiawan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Slim River",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Song",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sri Aman",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Subang Jaya",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Subis",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sungai Besi",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sungai Petani",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Sungai Siput",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taiping",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taman Nasional Kinabalu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taman Negara",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taman Negara Kelantan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taman Negara Pulau Pinang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Taman Negara Terengganu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tambunan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tampin",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tanah Merah",
+    "latitude": 5.6833,
+    "longitude": 102.1833
+  },
+  {
+    "location_name": "Tanah Tinggi Cameron",
+    "latitude": 4.473,
+    "longitude": 101.368
+  },
+  {
+    "location_name": "Tanah Tinggi Genting",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tangga Batu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tangkak",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tanjung Jara",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tanjung Manis",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tapah",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tasik Bera",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tasik Kenyir",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tatau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tawau",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tebedu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Telang Usan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Teluk Intan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Telupid",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Temerloh",
+    "latitude": 3.4333,
+    "longitude": 102.4167
+  },
+  {
+    "location_name": "Tenom",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Terengganu",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Timur Laut",
+    "latitude": 5.4164,
+    "longitude": 100.3327
+  },
+  {
+    "location_name": "Tongod",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Triang",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tuaran",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Tumpat",
+    "latitude": 6.1667,
+    "longitude": 102.3167
+  },
+  {
+    "location_name": "WP Kuala Lumpur",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "WP Labuan",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "WP Putrajaya",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "location_name": "Yan",
+    "latitude": 6.4667,
+    "longitude": 100.4333
+  },
+  {
+    "location_name": "Yong Peng",
+    "latitude": null,
+    "longitude": null
+  }
+]
