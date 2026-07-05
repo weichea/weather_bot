@@ -31,6 +31,10 @@ pytest verification gates:
 - `tests/test_exec_plans.py` verifies that completed plans live in `docs/exec-plans/completed/` and that active plans are not marked complete.
 - `tests/test_integration_smoke.py` verifies the basic startup path without external calls.
 
+## Agent Execution Bias Correction
+- **Architecture over Effort:** When making design decisions, ignore implicit assumptions about "development cost" or implementation speed. The frontier execution speed makes human-based timeline biases obsolete. Prioritize strict layer isolation and domain contract compliance over "cheap" or quick code fixes.
+- **Defensive Bug Fixes:** When resolving a bug, do not rely solely on isolated unit tests. You must first reproduce the bug in an integration setting or write a failing end-to-end wrapper in `tests/test_integration_smoke.py` that mimics how a user (or the Telegram webhook) triggers the failure before applying the fix.
+
 ## Code Quality Gate
 - All Python code must strictly adhere to PEP 8 standards.
 - Before committing any file change or closing a task, you must run `ruff check . --fix` and `ruff format .` via the terminal tool to fix linting errors, sort imports, and apply consistent code styling automatically.
