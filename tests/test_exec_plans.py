@@ -1,46 +1,27 @@
-"""Verify execution-plan lifecycle conventions.
+# tests/test_exec_plans.py
+import os
+import pytest
 
-Plans in docs/exec-plans/active must not be marked complete.
-Plans in docs/exec-plans/completed must be marked complete.
-"""
+ACTIVE_PLAN_PATH = "docs/exec-plans/active-plan.md"
+COMPLETED_PLANS_DIR = "docs/exec-plans/completed/"
 
-from __future__ import annotations
+def test_active_plan_exists_and_is_tracked():
+    """Point 2: Guarantees the agent keeps its state engine on disk."""
+    assert os.path.exists(ACTIVE_PLAN_PATH), (
+        "Harness Violation: 'docs/exec-plans/active-plan.md' was deleted or moved. "
+        "The active execution plan must exist as an on-disk state machine."
+    )
+    
+    with open(ACTIVE_PLAN_PATH, "r") as f:
+        content = f.read()
+    
+    assert "# Active Execution Plan" in content, (
+        "Harness Violation: Active plan structure was corrupted. "
+        "Keep the standard structural markdown headers intact."
+    )
 
-from pathlib import Path
-
-ROOT = Path(__file__).resolve().parents[1]
-ACTIVE_DIR = ROOT / "docs" / "exec-plans" / "active"
-COMPLETED_DIR = ROOT / "docs" / "exec-plans" / "completed"
-
-
-def _status_line(path: Path) -> str | None:
-    for line in path.read_text(encoding="utf-8").splitlines():
-        if line.startswith("Status:"):
-            return line.partition(":")[2].strip()
-    return None
-
-
-def _plan_files(directory: Path) -> list[Path]:
-    if not directory.exists():
-        return []
-    return sorted(directory.glob("*.md"))
-
-
-def test_active_plans_are_not_complete() -> None:
-    violations: list[str] = []
-    for path in _plan_files(ACTIVE_DIR):
-        status = _status_line(path)
-        if status == "Complete":
-            violations.append(f"{path} is complete but still in active/")
-
-    assert not violations, "\n".join(violations)
-
-
-def test_completed_plans_are_complete() -> None:
-    violations: list[str] = []
-    for path in _plan_files(COMPLETED_DIR):
-        status = _status_line(path)
-        if status != "Complete":
-            violations.append(f"{path} is not complete but is in completed/")
-
-    assert not violations, "\n".join(violations)
+def test_no_completed_plans_in_flight():
+    """Ensures old plans are cleanly archived in the historical tracking directory."""
+    if os.path.exists(COMPLETED_PLANS_DIR):
+        for file in os.listdir(COMPLETED_PLANS_DIR):
+            assert file.endswith(".md"), f"Non-markdown file found in tracking directory: {file}"

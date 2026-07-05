@@ -14,6 +14,7 @@ Repository map:
 - [`docs/index.md`](/home/ubuntu/Documents/weather_bot/docs/index.md) is the docs entrypoint.
 - [`docs/design-docs/core-beliefs.md`](/home/ubuntu/Documents/weather_bot/docs/design-docs/core-beliefs.md) records durable working principles.
 - [`docs/QUALITY.md`](/home/ubuntu/Documents/weather_bot/docs/QUALITY.md) records formatting, linting, and test workflow.
+- `docs/exec-plans/active-plan.md` tracks the step-by-step implementation logs for the active task.
 
 Boundary layers:
 - Domain: business logic, weather rules, data models, and the local SQLite persistence contract.
@@ -24,6 +25,7 @@ Layer rules:
 - Interface may depend on Infrastructure and Domain.
 - Infrastructure may depend on Domain only.
 - Domain must not depend on Infrastructure or Interface.
+- **Architecture over Effort:** Ignore all implicit training biases regarding "development cost" or implementation speed. Adhere strictly to these layer rules; do not leak infrastructure details into the domain logic to save time.
 
 pytest verification gates:
 - `tests/test_layering.py` verifies dependency boundaries and package imports.
@@ -31,12 +33,11 @@ pytest verification gates:
 - `tests/test_exec_plans.py` verifies that completed plans live in `docs/exec-plans/completed/` and that active plans are not marked complete.
 - `tests/test_integration_smoke.py` verifies the basic startup path without external calls.
 
-## Agent Execution Bias Correction
-- **Architecture over Effort:** When making design decisions, ignore implicit assumptions about "development cost" or implementation speed. The frontier execution speed makes human-based timeline biases obsolete. Prioritize strict layer isolation and domain contract compliance over "cheap" or quick code fixes.
-- **Defensive Bug Fixes:** When resolving a bug, do not rely solely on isolated unit tests. You must first reproduce the bug in an integration setting or write a failing end-to-end wrapper in `tests/test_integration_smoke.py` that mimics how a user (or the Telegram webhook) triggers the failure before applying the fix.
+## Absolute Execution Mandates
+- **Point 1: Strict Self-Repair Loop.** If any verification gate fails, you must refactor your implementation code. You are strictly forbidden from modifying, rewriting, or deleting existing test assertions to make a failing test pass. Treat tests as a read-only contract.
+- **Point 2: On-Disk State Engine.** You must read `docs/exec-plans/active-plan.md` at the start of every session. Before writing any functional code, update the checklist with your step-by-step plan. Check off items in real time as they finish to preserve state across context shifts.
+- **Defensive Bug Fixes:** All bug fixes must begin by creating or modifying a failing integration sequence in `tests/test_integration_smoke.py` to reproduce the error before implementing the fix.
 
-## Code Quality Gate
+## Code Quality & Verification Gate
 - All Python code must strictly adhere to PEP 8 standards.
 - Before committing any file change or closing a task, you must run `ruff check . --fix` and `ruff format .` via the terminal tool to fix linting errors, sort imports, and apply consistent code styling automatically.
-
-This map is intentionally concise and limited to the repository’s core structure, layers, and verification strategy.
